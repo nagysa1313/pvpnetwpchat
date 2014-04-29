@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp1", "PhoneApp1\PhoneApp1.csproj", "{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneClassLibrary1", "PhoneClassLibrary1\PhoneClassLibrary1.csproj", "{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|ARM.Build.0 = Debug|ARM
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|ARM.Deploy.0 = Debug|ARM
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|x86.ActiveCfg = Debug|x86
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|x86.Build.0 = Debug|x86
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Debug|x86.Deploy.0 = Debug|x86
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|ARM.ActiveCfg = Release|ARM
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|ARM.Build.0 = Release|ARM
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|ARM.Deploy.0 = Release|ARM
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|x86.ActiveCfg = Release|x86
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|x86.Build.0 = Release|x86
+		{D9147F3F-EE1A-4A4F-92EA-2B51A2E9EFCD}.Release|x86.Deploy.0 = Release|x86
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Debug|ARM.ActiveCfg = Debug|ARM
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Debug|ARM.Build.0 = Debug|ARM
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Debug|x86.ActiveCfg = Debug|x86
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Debug|x86.Build.0 = Debug|x86
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Release|ARM.ActiveCfg = Release|ARM
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Release|ARM.Build.0 = Release|ARM
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Release|x86.ActiveCfg = Release|x86
+		{9D02F606-9FC9-4947-81ED-B9EA9FBC3D56}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
